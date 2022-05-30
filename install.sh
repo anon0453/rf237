@@ -7,7 +7,7 @@ sudo apt-get install x264 -y
 sudo apt-get install gpac -y
 
 wget https://github.com/anon0453/rf237/archive/master.tar.gz
-tar -xf rf237-main.tar.gz
+tar -xf master.tar.gz
 
 
 cd rf237-main
